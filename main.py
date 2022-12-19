@@ -81,6 +81,5 @@ class MainApp(MDApp):
     
 
     
-
-
-MainApp().run()
+if __name__ == "__main__":
+    MainApp().run()
